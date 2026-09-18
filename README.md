@@ -2,7 +2,7 @@
 
 > **O frontend definitivo e elegante para seus jogos clássicos de PS1, PS2 e PSP.**
 
-🚀 **LANÇAMENTO OFICIAL DA V1.0.0: 17 de Setembro** 🚀
+🚀 **LANÇAMENTO OFICIAL DA V1.0.0: 17 de Outubro** 🚀
 
 O repositório está sendo preparado para o lançamento público da primeira versão executável. Marque este repositório com uma ⭐ (Star) para ser notificado assim que o download estiver disponível na aba de Releases!
 
